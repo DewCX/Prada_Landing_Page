@@ -1,0 +1,133 @@
+body{
+    font-family: 'MuseoModerno', cursive;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #F4F5F7;
+}
+
+/* Top-bar */
+.top-bar{
+    background-color: #C4C4C4;
+}
+.topbar-link {
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    color: rgba(0, 0, 0, 1);
+}
+.topbar-list>ul>li>a {
+    color: rgba(0, 0, 0, 1);
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+}
+/* Top-bar ends */
+
+/* Navbar */
+.top-header {
+    color: rgba(0, 0, 0, 1);
+    font-family: MuseoModerno;
+    font-size: 36px;
+    font-weight: 400;
+    letter-spacing: 5px;
+}
+
+.navbarMenu>li>a {
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 19px;
+    color: rgba(0, 0, 0, 1);
+    cursor: pointer;
+}
+/* Navbar ends */
+
+/* Card-1 */
+.btn-box {
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 19px;
+}
+/* Card-1 ends */
+
+/* Sale Woman */
+.bg-card {
+    background-color: #F4F5F7;
+}
+.card-text {
+    font-family: Open Sans;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 16px;
+}
+.card-title {
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 19px;
+    color: rgba(0, 0, 0, 1);
+}
+/* Sale Woman ends*/
+
+/* Card-2 */
+.box2-header {
+    font-family: Open Sans;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 33px;
+    color: rgba(0, 0, 0, 1);
+}
+.box2-text {
+    font-family: Open Sans;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    color: rgba(0, 0, 0, 1);
+}
+.btn-box2 {
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 19px;
+    color: rgba(0, 0, 0, 1);
+}
+/* Card-2 ends*/
+
+/* Card-3 */
+.card-inside-title {
+    font-family: Segoe UI;
+    font-size: 24px;
+    font-weight: 600;
+    letter-spacing: 0.35em;
+    color: rgba(255, 255, 255, 1);
+}
+.card-inside-btn {
+    width: 224px;
+    height: 57px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* Card-3 ends*/
+
+/* Footer */
+.footer-bg {
+    background-color: #FFF;
+}
+.footer-title {
+    font-family: Open Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 25px;
+    color: rgba(0, 0, 0, 1);
+}
+.list-footer>li>a {
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    color: rgba(0, 0, 0, 1);
+}
+/* Footer ends */
